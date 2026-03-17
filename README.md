@@ -54,11 +54,9 @@ Vin = 220 Vrms at 50Hz (312 Vp)
 ## Simulation
 
 ## Output
+![Experiment 1 simulation of half wave rectifer (uncontrolled)](https://github.com/user-attachments/assets/f8702149-11c7-4b23-a0d5-43e51d607735)
 
 ## Result
-
-
-
 
 
 
